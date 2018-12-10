@@ -1,0 +1,130 @@
+html{
+    background-color: #FFEEDB;
+    color: #28170C;
+}
+body{
+    font-family: "Neutra Text", sans-serif;
+    font-size: 100%;
+    font-style: italic;
+    font-weight:600;
+    background-color: #3B2314;
+    width: 1050px;
+    margin: auto;
+}
+a:link, a:visited, a:active{
+    color:#b55526;
+    font-family: "Grover Caps", sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 90%;
+}
+.layoutimg{
+    float: left;
+}
+.txt_box{
+    float:right;
+    width: 461px;
+    margin:0;
+    padding: 2em;
+    background-color: #a97c50;
+}
+#mainextra{
+    text-align: center;
+}
+.mainextra{
+    margin: 1em 1.5em
+}
+.subform{
+    clear: both;
+    text-align: center;
+}
+form p{
+    color:#c2b59b;
+}
+.sectitle{
+    clear:both;
+    text-align: center;
+    margin: 1em 0 .5em 515px;
+    color:#b55526;
+    font-family: "Grover Caps", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+#introtxt{
+    height: 273px;
+}
+#menutxt{
+    height:663px;
+}
+#menutxt h3{
+    text-align: center;
+    color:#603813;
+}
+#menutxt ul{
+    list-style-type: none;
+}
+.price{
+    text-align: right
+}
+#lochrstxt{
+    height:273px;
+}
+#lochrs_add1{
+    text-align: center;
+    margin-bottom: 0;
+}
+#lochrstxt address, #lochrs_times{
+    text-align: center;
+}
+#lochrs_lmm{
+    color:#603813;
+}
+#imgbox{
+    float: left;
+    width: 525px;
+    margin: 0;
+}
+#abtustxt{
+    height:662px;
+}
+#contacttxt{
+    height:284px;
+}
+.contactform{
+    background-color: #c2b59b;
+    width: 400px;
+}
+textarea{
+    height:7em;
+    width: 400px;
+    background-color: #c2b59b;
+}
+#contacttxt_a{
+    float:left;
+    color:#c2b59b;
+    text-align: center;
+    margin-left: 200px;
+}
+#contacttxt_b{
+    float:right;
+    color:#c2b59b;
+    text-align: center;
+    margin-right: 200px;
+}
+
+#bottomnav{
+    clear: both;
+    color:#b55526;
+    text-align: center;
+}
+#bottomnav li{
+    list-style-type: none;
+    display:inline-block;
+    margin: 0 60px;
+}
+footer{
+    text-align: right;
+    color:#c49a6c;
+    font-size: 90%;
+}
